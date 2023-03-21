@@ -74,34 +74,34 @@
                     android:padding="8dp">
 
                     <TextView
-                        android:layout_width="160dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:padding="4dp"
                         android:text="Batter" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
                         android:text="R" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
                         android:text="B" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
                         android:text="4s" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
@@ -140,14 +140,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Yastika Bhatia (wk)"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -156,21 +156,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="6" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="0" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -227,14 +227,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Hayley Matthtws"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -243,21 +243,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="10" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="1" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -314,14 +314,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Nat Sciver"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -330,21 +330,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="1" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="0" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -401,14 +401,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Harmanpreet Kaur (c)"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -417,21 +417,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="26" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="4" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -488,14 +488,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Amelia Kerr"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -504,21 +504,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="16" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="1" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -575,14 +575,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Pooja Vastrakar"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -591,21 +591,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="19" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="3" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -662,14 +662,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Wong"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -678,21 +678,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="24" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="0" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -749,14 +749,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Amanjot kaur"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -765,21 +765,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="16" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="2" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -836,14 +836,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Humaira Kazi"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -852,21 +852,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="2" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="0" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -1018,34 +1018,34 @@
                     android:padding="8dp">
 
                     <TextView
-                        android:layout_width="160dp"
+                        android:layout_width="150dp"
                         android:layout_height="wrap_content"
                         android:padding="4dp"
                         android:text="Batter" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
                         android:text="R" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
                         android:text="B" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
                         android:text="4s" />
 
                     <TextView
-                        android:layout_width="40dp"
+                        android:layout_width="30dp"
                         android:layout_height="wrap_content"
                         android:gravity="center"
                         android:padding="4dp"
@@ -1084,14 +1084,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Lanning (c)"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -1100,21 +1100,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="22" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="4" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -1171,14 +1171,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Shafali Verma"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -1187,21 +1187,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="15" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="6" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -1258,14 +1258,14 @@
                                 android:paddingHorizontal="8dp">
 
                                 <TextView
-                                    android:layout_width="160dp"
+                                    android:layout_width="150dp"
                                     android:layout_height="wrap_content"
                                     android:padding="4dp"
                                     android:text="Alice Capsey"
                                     android:textColor="@color/blue" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
@@ -1274,21 +1274,21 @@
                                     android:textStyle="bold" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="17" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
                                     android:text="1" />
 
                                 <TextView
-                                    android:layout_width="40dp"
+                                    android:layout_width="30dp"
                                     android:layout_height="wrap_content"
                                     android:gravity="center"
                                     android:padding="4dp"
